@@ -1,10 +1,10 @@
 {
   "name": "wonder-jest",
   "description": "Delightful JavaScript Testing.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "build/jest.js",
   "dependencies": {
-    "wonder-jest-cli": "^0.0.1"
+    "wonder-jest-cli": "^0.0.2"
   },
   "bin": {
     "jest": "./bin/jest.js"

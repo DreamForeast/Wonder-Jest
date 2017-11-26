@@ -6,4 +6,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-require('jest-cli/bin/jest');
+require('wonder-jest-cli/bin/jest');
